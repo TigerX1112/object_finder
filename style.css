@@ -14,6 +14,7 @@ b{
     font-size: 20px;
 }
 canvas{
+    margin-top: 200px;
     border: 2px black solid;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
